@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teste Genius API
 
 Este projeto é um teste de integração com a API do Genius, utilizando Python e AWS DynamoDB para armazenar resultados de buscas de músicas.
@@ -17,3 +18,6 @@ Este projeto é um teste de integração com a API do Genius, utilizando Python 
 ```bash
 git clone https://github.com/Franmelleal/Teste-API-GENIUS.git
 cd Teste-API-GENIUS
+=======
+# Teste-API-GENIUS
+>>>>>>> 409d3f9d5c0adc3a58918124b6f10a882a6894bc
